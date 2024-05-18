@@ -1,5 +1,5 @@
 local Library = 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+loadstring(game:HttpGet("https://github.com/Dika097/Dika097/blob/main/Source.lua"))()
     local Window = Library.CreateLib("a dusty trip", "Sentinel")
  
     -- MAIN
